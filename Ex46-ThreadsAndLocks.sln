@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex46-ThreadsAndLocks", "Ex46-ThreadsAndLocks\Ex46-ThreadsAndLocks.csproj", "{19B6AFD6-2CB3-436A-B894-508F1312148F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B6AFD6-2CB3-436A-B894-508F1312148F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B6AFD6-2CB3-436A-B894-508F1312148F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B6AFD6-2CB3-436A-B894-508F1312148F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B6AFD6-2CB3-436A-B894-508F1312148F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF33C31-7C92-4FFE-9A1F-6DD992B484B6}
+	EndGlobalSection
+EndGlobal
